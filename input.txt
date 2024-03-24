@@ -1,0 +1,7 @@
+Artem 18 cat Murzik 6 British 
+Dima 15 cat Murzik 8 British
+Dima 16 cat Mika 10 German
+Misha 11 fish Dori 8 blue
+Oleg 11 dog Nani 8 Mops
+Ilya 18 fish ,, 3 red
+Olya 30 fish ,, 4 ,,
